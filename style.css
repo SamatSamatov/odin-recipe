@@ -43,3 +43,19 @@ img {
   text-align: center;
   text-decoration: underline;
 }
+
+.button-style {
+  border: 3px solid darkred;
+  background-color: transparent;
+}
+
+.button-text {
+  color: darkred;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+}
